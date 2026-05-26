@@ -16,9 +16,9 @@ Encontre 3 pistas numéricas espalhadas pela sala, descubra a senha correta e es
 ## Como jogar
 
 1. Acesse a aba **Releases**
-2. Baixe o arquivo `EscapeRoom_v1.0.zip`
+2. Baixe o arquivo `build.escaperoom.zip`
 3. Extraia os arquivos
-4. Execute `EscapeRoomVR_CodeBreaker.exe`
+4. Execute `EscapeRoom.exe`
 
 ## Como abrir no Unity
 
